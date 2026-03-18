@@ -25,5 +25,9 @@ Administración de Pacientes de Veterinaria
 https://github.com/Luismy-182/APV-Frontend
 
 ## ⚙️ Instalación
+```bash
+- git clone https://github.com/Luismy-182/apv-backend.git
+- cd apv-backend
 - npm install
 - npm run dev
+
