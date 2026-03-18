@@ -24,6 +24,6 @@ Administración de Pacientes de Veterinaria
 - 🔗 Backend API
 https://github.com/Luismy-182/APV-Frontend
 
-⚙️ Instalación
-npm install
-npm run dev
+-- ## ⚙️ Instalación
+- npm install
+- npm run dev
