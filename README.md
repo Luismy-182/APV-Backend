@@ -21,8 +21,8 @@ Administración de Pacientes de Veterinaria
 - Agendamiento de citas
 - Edición y eliminación de registros
 
-- 🔗 Backend API
-https://github.com/Luismy-182/APV-Frontend
+- 🔗 Frontend API
+https://github.com/Luismy-182/apv-frontend.git
 
 ## ⚙️ Instalación
 ```bash
