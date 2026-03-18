@@ -2,7 +2,7 @@
 
 Administración de Pacientes de Veterinaria
 
-## 🚀 Tecnologías
+## 🌿 Tecnologías
 - Node.js
 - Express
 - MongoDB
@@ -24,6 +24,6 @@ Administración de Pacientes de Veterinaria
 - 🔗 Backend API
 https://github.com/Luismy-182/APV-Frontend
 
--- ## ⚙️ Instalación
+## ⚙️ Instalación
 - npm install
 - npm run dev
